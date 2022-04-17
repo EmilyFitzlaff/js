@@ -11,3 +11,6 @@ myMap.delete("apple");
 
 myMap.get(apple);
 // undefined
+
+- set: coleções com valores únicos
+
